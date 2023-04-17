@@ -1,6 +1,8 @@
 ###############################################################
 //  Name: Kristen Hawkins
 //  Date: 4/15/2023
+//  This is the main part of the code, this code takes python
+//   and configures into the C++ file. 
 ###############################################################
 
 
